@@ -28,6 +28,6 @@ elif now.hour <= 21:
 
 elif now.hour <= 23:
     print("Get that SLEEP. And REPEAT!")
-    
+
 else:
     print("You didn’t type an acceptable value! (0-23)")
