@@ -18,6 +18,6 @@ elif usertime <= 21:
     print("Gotta eat that dinner.")
 elif usertime <=23:
     print("Get that SLEEP. And REPEAT!")
-    
+
 else:
     print("You didn’t type an acceptable value! (0-23)")
